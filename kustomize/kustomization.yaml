@@ -16,7 +16,7 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 
 commonLabels:
-  platform: gcp2
+  platform: gcp
 
 resources:
 - base
